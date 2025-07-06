@@ -5,6 +5,10 @@
 
 **DNS (Domain Name System)** is the Internet’s “phone book.” It translates human-readable domain names like `google.com` into machine-friendly IP addresses like `142.250.185.206`.
 
+
+![Alt text](caps/DNS.jpg)
+
+
 Every time you visit a website, your system makes a DNS query. This happens before any HTTPS encryption is established, making it a critical part of your privacy posture.
 
 ---
