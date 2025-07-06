@@ -39,7 +39,7 @@ Signal gives you the full WhatsApp experience — but without the spying.
 - Works on all platforms (iOS, Android, Windows, Mac, Linux)
 - Features: group chats, reactions, media sharing, voice/video calls
 
-![Alt text](caps/signal.jpeg)
+![Alt text](caps/signal.jpg)
 
 ### ⚠️ Downside:
 - Still needs a phone number to register (but doesn’t expose it)
