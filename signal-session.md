@@ -6,6 +6,10 @@ Are you still using WhatsApp and wondering if there’s something safer?
 Let’s be real: if your privacy matters, it’s time to switch.  
 **Signal** and **Session** are two excellent tools that offer real alternatives — without spying, ads, or shady data practices.
 
+
+![Alt text](caps/1.png)
+
+
 ---
 
 ## 🔍 Why Not WhatsApp?
