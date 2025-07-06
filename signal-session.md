@@ -22,6 +22,10 @@ Even with encryption, WhatsApp still:
 
 If you care about who controls your information, it’s a red flag.  
 
+
+
+![Alt text](caps/w.jpeg)
+
 ---
 
 ## 📱 Signal – Familiar, but Private
@@ -34,6 +38,8 @@ Signal gives you the full WhatsApp experience — but without the spying.
 - Zero ads, zero tracking
 - Works on all platforms (iOS, Android, Windows, Mac, Linux)
 - Features: group chats, reactions, media sharing, voice/video calls
+
+![Alt text](caps/signal.jpeg)
 
 ### ⚠️ Downside:
 - Still needs a phone number to register (but doesn’t expose it)
@@ -52,8 +58,9 @@ Session is like Signal’s more secretive sibling. Built for **maximum anonymity
 - Messages go through Tor-like routing
 - Open-source and decentralized
 
+  ![Alt text](caps/session.png)
+
 ### ⚠️ Downside:
-- No voice/video calls (yet)
 - Slightly slower delivery sometimes
 
 > 🔐 Best for activists, journalists, or anyone needing real anonymity.
