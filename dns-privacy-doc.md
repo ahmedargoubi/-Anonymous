@@ -24,6 +24,8 @@ Most users rely on their **ISP’s default DNS servers** without realizing that:
 
 > If you’re located in Tunisia (or any country with monitored ISPs), using your ISP’s DNS server exposes your browsing activity—even when using privacy tools.
 
+![Alt text](caps/ISP.png)
+
 ---
 
 ## 🧠 How DNS Can Leak Your Identity
