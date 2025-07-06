@@ -60,6 +60,8 @@ Check your active connection:
 nmcli con show
 ```
 
+![Alt text](caps/cap1.png)
+
 Change DNS servers:
 
 ```bash
@@ -72,19 +74,15 @@ Apply the new settings:
 nmcli con up "Wired connection 1"
 ```
 
+![Alt text](caps/cap2.png)
+
 Verify:
 
 ```bash
 cat /etc/resolv.conf
 ```
 
-Expected output:
-
-```bash
-nameserver 208.67.222.222
-nameserver 208.67.220.220
-nameserver 8.8.8.8
-```
+![Alt text](caps/cap3.png)
 
 ---
 
