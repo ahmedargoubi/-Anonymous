@@ -64,6 +64,15 @@ sudo apt install libimage-exiftool-perl
 exiftool -all= myphoto.jpg
 ```
 
+Before:
+
+![Alt text](caps/ex1.png)
+
+
+After: 
+
+![Alt text](caps/ex1.png)
+
 > ⚠️ This command overwrites the original file. Use with caution.
 
 ---
