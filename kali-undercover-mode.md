@@ -30,6 +30,9 @@ kali-undercover
 
 This will switch your desktop environment to a Windows 10 lookalike.
 
+
+![Alt text](caps/ku.png)
+
 To disable it and return to Kali’s original theme, run the command again:
 
 ```bash
