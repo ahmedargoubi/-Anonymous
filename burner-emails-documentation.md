@@ -35,13 +35,26 @@ Burner emails protect you from all that.
 
 1. You visit the burner email website.
 2. It gives you a random email address.
-3. You use it to sign up for any service.
-4. You receive the confirmation email.
-5. After a while, the email inbox **disappears**.
+
+![Alt text](caps/fake.png)
+   
+4. You use it to sign up for any service.
+
+
+![Alt text](caps/e1.png)
+  
+6. You receive the confirmation email.
+7. After a while, the email inbox **disappears**.
+
+
 
 ✅ No spam  
 ✅ No identity leak  
 ✅ No tracking
+
+
+![Alt text](caps/e2.png)
+
 
 ---
 
