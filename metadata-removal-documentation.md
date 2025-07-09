@@ -71,7 +71,7 @@ Before:
 
 After: 
 
-![Alt text](caps/ex1.png)
+![Alt text](caps/ex2.png)
 
 > ⚠️ This command overwrites the original file. Use with caution.
 
