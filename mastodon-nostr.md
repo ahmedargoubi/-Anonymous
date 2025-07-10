@@ -27,9 +27,14 @@ Mastodon looks and feels like Twitter, but it’s fully decentralized.
 - You can join any server, or create your own
 - Open-source and non-profit
 
+![Alt text](caps/Mastdon.png)
+
 ### ⚠️ What to Know:
 - You need to choose a server to join (like picking an email provider)
 - Each instance has its own rules and moderation
+
+![Alt text](caps/mastdon2.png)
+
 
 > 💬 Perfect for people who want **freedom with a familiar experience**.
 
@@ -47,6 +52,9 @@ No usernames, no accounts. Just cryptographic keys and freedom.
 - No email, no phone number needed
 - No censorship or tracking
 - Works over Tor
+
+
+![Alt text](caps/nostr.png)
 
 ### ⚠️ What to Know:
 - Interface depends on the app you use (like Damus or Amethyst)
