@@ -19,11 +19,17 @@ This split ensures **network-level isolation**, one of Whonix’s core design pr
 - **Stream isolation**: Apps use separate Tor circuits to reduce fingerprinting.
 - **Preconfigured firewall rules**: Blocks non-Tor connections by default.
 
+
+![Alt text](caps/Whonix2.png)
+
 ## ⚙️ How It Works
 
 1. Gateway connects to Tor.
 2. Workstation sends all internet traffic *only* through the Gateway.
 3. Even if a browser or app is compromised, your IP stays hidden.
+
+
+![Alt text](caps/Whonix.jpg)
 
 ## 🧪 Use Cases
 
