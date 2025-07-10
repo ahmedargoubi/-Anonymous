@@ -40,7 +40,7 @@ You can click on each link to learn more:
 
 10. [`mastodon-nostr.md`](mastodon-nostr.md) – Join decentralized social networks that respect your privacy.
 
-11. [`whonix-doc.md`](whonix-doc.md) A security-focused operating system that routes everything through Tor using strong isolation between "Workstation" and "Gateway". Great for serious anonymity and research.
+11. [`whonix-doc.md`](whonix-documentation.md) A security-focused operating system that routes everything through Tor using strong isolation between "Workstation" and "Gateway". Great for serious anonymity and research.
 
 
 ---
