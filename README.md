@@ -1,4 +1,4 @@
-# 👤 Project: Becoming Anonymous Online – A Practical Journey
+# 👤 Project: Becoming Anonymous Online
 
 ## 🧭 Why This Project?
 
