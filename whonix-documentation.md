@@ -20,7 +20,7 @@ This split ensures **network-level isolation**, one of Whonix’s core design pr
 - **Preconfigured firewall rules**: Blocks non-Tor connections by default.
 
 
-![Alt text](caps/Whonix2.png)
+![Alt text](caps/whonix2.png)
 
 ## ⚙️ How It Works
 
