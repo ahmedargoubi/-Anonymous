@@ -57,8 +57,16 @@ Changing your User-Agent can:
 
 ### In Firefox:
 1. Go to `about:config`
+
+![Alt text](caps/ua1.png)
+  
 2. Search for: `general.useragent.override`
+
+ ![Alt text](caps/ua2.png)
+
 3. Create it as a new String and set your custom User-Agent
+
+![Alt text](caps/ua3.png)
 
 ### In Chromium-based browsers:
 Use an extension like:
