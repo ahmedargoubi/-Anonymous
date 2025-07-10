@@ -27,7 +27,7 @@ Mastodon looks and feels like Twitter, but it’s fully decentralized.
 - You can join any server, or create your own
 - Open-source and non-profit
 
-![Alt text](caps/Mastdon.png)
+![Alt text](caps/Mastodon.png)
 
 ### ⚠️ What to Know:
 - You need to choose a server to join (like picking an email provider)
